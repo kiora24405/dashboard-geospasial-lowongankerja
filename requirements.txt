@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+folium
+streamlit-folium
+pydeck
+geopy
+requests
+beautifulsoup4
