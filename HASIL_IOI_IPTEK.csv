@@ -1,0 +1,135 @@
+Lokasi,total_lowongan,lowongan_iptek,ioi,Kategori
+Badung,13,0,0.0,Rendah
+Balikpapan,3,1,0.3333333333333333,Sedang
+Bandar Lampung,5,1,0.2,Rendah
+Bandung,96,13,0.13541666666666666,Rendah
+Banjarmasin,2,1,0.5,Sedang
+Bantul,1,0,0.0,Rendah
+Banyumas,2,0,0.0,Rendah
+Batam,3,2,0.6666666666666666,Tinggi
+Batulicin,1,0,0.0,Rendah
+Bekasi,54,10,0.18518518518518517,Rendah
+Bengkayang,1,1,1.0,Tinggi
+Blitar,1,1,1.0,Tinggi
+Blora,1,0,0.0,Rendah
+Bogor,14,1,0.07142857142857142,Rendah
+Cianjur,1,0,0.0,Rendah
+Cibinong,1,0,0.0,Rendah
+Cikarang,6,1,0.16666666666666666,Rendah
+Cilacap,1,1,1.0,Tinggi
+Cirebon,3,1,0.3333333333333333,Sedang
+Deli Serdang,1,1,1.0,Tinggi
+Denpasar,4,1,0.25,Rendah
+"Denpasar, Bali",1,0,0.0,Rendah
+Depok,10,2,0.2,Rendah
+Gianyar,2,0,0.0,Rendah
+Gresik,6,2,0.3333333333333333,Sedang
+Indramayu,1,0,0.0,Rendah
+Jakarta,507,181,0.35700197238658776,Sedang
+Jawa Barat,1,0,0.0,Rendah
+Jepara,1,0,0.0,Rendah
+KAB. ACEH BARAT,1,0,0.0,Rendah
+KAB. BANTUL,10,0,0.0,Rendah
+KAB. BARITO SELATAN,1,0,0.0,Rendah
+KAB. BEKASI,3,0,0.0,Rendah
+KAB. BELITUNG,1,0,0.0,Rendah
+KAB. BENGKALIS,1,0,0.0,Rendah
+KAB. BOGOR,8,0,0.0,Rendah
+KAB. BOMBANA,1,0,0.0,Rendah
+KAB. BOYOLALI,1,0,0.0,Rendah
+KAB. CIANJUR,1,0,0.0,Rendah
+KAB. CILACAP,1,0,0.0,Rendah
+KAB. CIREBON,2,0,0.0,Rendah
+KAB. DEMAK,2,0,0.0,Rendah
+KAB. GARUT,1,0,0.0,Rendah
+KAB. GIANYAR,3,0,0.0,Rendah
+KAB. GRESIK,2,0,0.0,Rendah
+KAB. KAMPAR,1,0,0.0,Rendah
+KAB. KARAWANG,2,0,0.0,Rendah
+KAB. KETAPANG,1,1,1.0,Tinggi
+KAB. KUDUS,3,0,0.0,Rendah
+KAB. MAJALENGKA,1,0,0.0,Rendah
+KAB. MALANG,1,0,0.0,Rendah
+KAB. SEMARANG,5,0,0.0,Rendah
+KAB. SERANG,4,3,0.75,Tinggi
+KAB. SIDOARJO,3,2,0.6666666666666666,Tinggi
+KAB. SUKABUMI,2,0,0.0,Rendah
+KAB. SUKOHARJO,7,2,0.2857142857142857,Rendah
+KAB. TABANAN,1,0,0.0,Rendah
+KAB. TANGERANG,3,0,0.0,Rendah
+KOTA BALIKPAPAN,2,0,0.0,Rendah
+KOTA BANDA ACEH,1,0,0.0,Rendah
+KOTA BANJARMASIN,2,0,0.0,Rendah
+KOTA BATAM,12,2,0.16666666666666666,Rendah
+KOTA BEKASI,4,1,0.25,Rendah
+KOTA BIMA,1,0,0.0,Rendah
+KOTA BOGOR,1,0,0.0,Rendah
+KOTA CILEGON,16,2,0.125,Rendah
+KOTA DENPASAR,2,0,0.0,Rendah
+KOTA DEPOK,1,1,1.0,Tinggi
+KOTA MANADO,1,0,0.0,Rendah
+KOTA MEDAN,12,0,0.0,Rendah
+KOTA PADANG,6,0,0.0,Rendah
+KOTA PALANGKARAYA,1,0,0.0,Rendah
+KOTA PALEMBANG,10,0,0.0,Rendah
+KOTA PANGKAL PINANG,1,0,0.0,Rendah
+KOTA PONTIANAK,3,0,0.0,Rendah
+KOTA SALATIGA,3,0,0.0,Rendah
+KOTA SAMARINDA,2,0,0.0,Rendah
+KOTA SEMARANG,3,1,0.3333333333333333,Sedang
+KOTA SURABAYA,3,0,0.0,Rendah
+KOTA SURAKARTA,2,0,0.0,Rendah
+KOTA TANGERANG,1,0,0.0,Rendah
+KOTA TANGERANG SELATAN,7,0,0.0,Rendah
+KOTA YOGYAKARTA,4,0,0.0,Rendah
+Kabupaten Tangerang,21,4,0.19047619047619047,Rendah
+Karawang,2,0,0.0,Rendah
+Kediri,1,1,1.0,Tinggi
+Kendal,1,1,1.0,Tinggi
+Kerinci,3,1,0.3333333333333333,Sedang
+Kota Yogyakarta,14,1,0.07142857142857142,Rendah
+Kudus,1,0,0.0,Rendah
+Kuningan,3,1,0.3333333333333333,Sedang
+Kupang,1,1,1.0,Tinggi
+Lamandau,1,1,1.0,Tinggi
+Lombok,3,0,0.0,Rendah
+Magetan,3,0,0.0,Rendah
+Majalengka,1,0,0.0,Rendah
+Makassar,3,0,0.0,Rendah
+Malang,4,1,0.25,Rendah
+Medan,23,2,0.08695652173913043,Rendah
+"Medan, Sumatra",1,0,0.0,Rendah
+Mojokerto,6,0,0.0,Rendah
+Padang,2,0,0.0,Rendah
+Palangka Raya,1,1,1.0,Tinggi
+Palembang,5,0,0.0,Rendah
+Pekalongan,2,1,0.5,Sedang
+Pekanbaru,1,0,0.0,Rendah
+Pelalawan,1,0,0.0,Rendah
+Pemalang,1,0,0.0,Rendah
+Pematang Siantar,1,0,0.0,Rendah
+Ponorogo,1,0,0.0,Rendah
+Pontianak,1,1,1.0,Tinggi
+Purwakarta,1,0,0.0,Rendah
+Remote,18,4,0.2222222222222222,Rendah
+Samarinda,2,1,0.5,Sedang
+Sampang,1,0,0.0,Rendah
+Semarang,9,4,0.4444444444444444,Sedang
+Sidoarjo,6,1,0.16666666666666666,Rendah
+Simalungun,1,0,0.0,Rendah
+Singkawang,1,0,0.0,Rendah
+Sleman,6,3,0.5,Sedang
+Solo City,2,0,0.0,Rendah
+Sukabumi,2,1,0.5,Sedang
+Sunter,1,1,1.0,Tinggi
+Surabaya,42,8,0.19047619047619047,Rendah
+Surakarta,2,0,0.0,Rendah
+Surakarta / Solo,3,0,0.0,Rendah
+Tabanan,2,2,1.0,Tinggi
+Tangerang,65,14,0.2153846153846154,Rendah
+Tangerang Selatan,20,3,0.15,Rendah
+Tanjung Selor,1,1,1.0,Tinggi
+Tasikmalaya,1,0,0.0,Rendah
+Tegal,1,0,0.0,Rendah
+Wonogiri,1,0,0.0,Rendah
+Yogyakarta,7,4,0.5714285714285714,Sedang
